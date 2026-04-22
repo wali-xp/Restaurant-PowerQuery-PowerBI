@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-This project focuses entirely on data cleaning and transformation using Power Query in Power BI. The dataset represents a global chain of restaurants and includes detailed information about restaurant locations, cuisines, pricing, customer ratings, and votes. Alongside this, a separate country dataset is used to map country codes to their respective country names, enabling better geographic clarity in the data.
+This project focuses entirely on data cleaning and transformation using Power Query in Power BI. The dataset represents a chain of restaurants and includes detailed information about restaurant locations, cuisines, pricing, customer ratings, and votes. Alongside this, a separate country dataset is used to map country codes to their respective country names, enabling better geographic clarity in the data.
 
 The transformation process begins with data inspection, where issues such as missing values, duplicate records, and inconsistent formatting are identified. Necessary cleaning steps are then performed, including removing null values, eliminating duplicates, and renaming columns to make them more meaningful and easy to understand.
 
